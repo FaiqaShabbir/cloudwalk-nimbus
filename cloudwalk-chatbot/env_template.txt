@@ -1,0 +1,7 @@
+# CloudWalk Chatbot Environment Variables
+
+# OpenAI API Key for the chatbot
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: Other API keys if needed
+# ANTHROPIC_API_KEY=your_anthropic_api_key_here

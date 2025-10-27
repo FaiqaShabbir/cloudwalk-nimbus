@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# Environment Variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project Specific
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB Data (can be recreated)
+chroma_db/
+video_chroma_db/
+cloudwalk-chatbot/chroma_db/
+video-source-finder/video_chroma_db/
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

@@ -1,0 +1,22 @@
+# Video Source Finder Requirements
+
+youtube-transcript-api
+google-search-results
+tavily-python
+pytube
+openai-whisper
+openai
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+requests
+beautifulsoup4
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+langchain-core
+numpy
+pandas
+tiktoken
