@@ -19,6 +19,7 @@ This repository contains two challenge implementations for the CloudWalk Nimbus 
 ```
 
 **Technology Stack**:
+
 - YouTube transcript extraction (SearchAPI + YouTube Transcript API)
 - Vector embeddings (Sentence Transformers)
 - Semantic search (ChromaDB)
@@ -26,6 +27,7 @@ This repository contains two challenge implementations for the CloudWalk Nimbus 
 - Streamlit web interface
 
 **Key Features**:
+
 - Searches ALL indexed videos for exact matches first
 - Falls back to discovering new videos if needed
 - Returns highest confidence matches
@@ -40,6 +42,7 @@ This repository contains two challenge implementations for the CloudWalk Nimbus 
 **Output**: Natural language answers (with Markdown formatting support)
 
 **Technology Stack**:
+
 - Retrieval-Augmented Generation (RAG)
 - OpenAI GPT-3.5-turbo
 - ChromaDB for vector storage
@@ -48,6 +51,7 @@ This repository contains two challenge implementations for the CloudWalk Nimbus 
 - Static knowledge base (knowledge_base.md)
 
 **Key Features**:
+
 - Comprehensive knowledge base about CloudWalk
 - RAG technology for accurate, contextual responses
 - Pre-defined quick questions for common queries
@@ -186,6 +190,7 @@ Nimbus Level 1/
 **Subject**: Nimbus Challenge Submission
 
 This project implements both challenges with:
+
 - Clean, modular code architecture
 - Comprehensive documentation
 - Test scripts for verification
